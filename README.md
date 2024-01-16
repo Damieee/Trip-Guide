@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Damieee/Trip-Guide.git" target="_blank">
-      <img src="assets/tripguide.png" alt="Project Banner">
+      <img src="images/tripguide.png" alt="Project Banner">
     </a>
   <br />
 
